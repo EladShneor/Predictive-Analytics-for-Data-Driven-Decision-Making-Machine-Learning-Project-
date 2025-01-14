@@ -26,9 +26,10 @@ The final AUC score on the test set ranks among the top three, showcasing the ef
 Below are examples of graphs used in the project to illustrate the analysis and results:
 
 1. Categorical Feature Distribution:
+![image](https://github.com/user-attachments/assets/2d692555-9792-4ef0-a2cc-ed79ef01e2aa)
 
-   ![image](https://github.com/user-attachments/assets/38bc6feb-7e08-4908-9607-801340ab9d36)
-
+2. Specific feature analysis
+![image](https://github.com/user-attachments/assets/24334670-a5a2-488a-b0d3-8bb3e8a86b26)
 
 2. Model Performance Comparison:
 
@@ -39,8 +40,3 @@ Below are examples of graphs used in the project to illustrate the analysis and 
 ## Acknowledgments
 
 Special thanks to Etay, for his collaboration and dedication to this project.
-
----
-
-Please replace `path/to/...` with the actual paths to the images you wish to include.
-
