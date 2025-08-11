@@ -40,6 +40,3 @@ Below are examples of graphs used in the project to illustrate the analysis and 
 
 
 
-## Acknowledgments
-
-Special thanks to Etay, for his collaboration and dedication to this project.
