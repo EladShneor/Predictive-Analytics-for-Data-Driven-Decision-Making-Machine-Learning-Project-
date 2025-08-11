@@ -4,8 +4,7 @@
 
 This project focuses on building a machine learning pipeline for data preprocessing, dimensionality reduction, and classification. It incorporates advanced techniques like PCA and hyperparameter tuning to optimize model performance. The final model achieved one of the top three highest AUC scores during testing in class. 
 
--full code you can find in the python jupitar notebook file.
--full report with further explantion you can look at the .docx file (in Hebrew)
+-full code you can find in the python jupitar notebook file (some explantions provided in it also).
 
 ## Key Features
 
